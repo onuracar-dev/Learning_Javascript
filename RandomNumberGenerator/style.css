@@ -1,0 +1,13 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#MyButton {
+    padding: 5px 30px;
+    font-size: 4em;
+}
+
+.MyLabels {
+    font-size: 3em;
+}
